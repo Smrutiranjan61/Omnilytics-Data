@@ -46,10 +46,10 @@ Dockerize question B. Write a docker file so that it reads the output from quest
 - File: __Dockerfile__
 - Build docker
 ```dockerfile
-docker build -t omnilytics:latest -f ./Dockerfile
+docker build -t omnilytics-Data:latest -f ./Dockerfile
 
 ```
 - Run docker:
 ```dockerfile
-docker run omnilytics
+docker run omnilytics-Data
 ```
