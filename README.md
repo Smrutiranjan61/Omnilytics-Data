@@ -32,7 +32,7 @@ asjdfklasdjfklaasf - alphabetical strings
 123192u3kjwekhf - alphanumeric
 
 ## 2.2. Solution
-- File: __challenge_b.py__
+- File: __question-b.py__
 - Run: 
 ```Python
 python question-b.py
